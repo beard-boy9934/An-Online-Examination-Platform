@@ -46,21 +46,16 @@ const HomeScreen = () => {
           <br></br>
           <br></br>
           <br></br>
-          <strong>AMIT RAMAN (2019BCS-007)</strong>
+          <strong>SUNNY KUMAR(2001194)</strong>
           <br></br>
-          <br></br>
-          <em>Under Supervision of</em>
-          <br></br>
-          Dr. Anuraj Singh
           <br></br>
           <br></br>
           <br></br>
           <h3>
-            ABV INDIAN INSTITUTE OF INFORMATION<br></br>
-            TECHNOLOGY AND MANAGEMENT<br></br>
-            GWALIOR-474 015<br></br>
+            INDIAN INSTITUTE OF INFORMATION<br></br>
+            TECHNOLOGY<br></br>
+            GUWAHATI<br></br>
             <br></br>
-            AUGUST 2020
           </h3>
           <br></br>
           <br></br>
